@@ -7,3 +7,4 @@ const quantitedestylo = 3;
 
 const montantdescahiers = prixduncahier * quantitedecahier;
 const montantdesstylos = prixdunstylo * quantitedestylo;
+const montanttotaldesachats = montantdescahiers + montantdesstylos;
