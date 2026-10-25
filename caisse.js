@@ -3,3 +3,7 @@ const prixduncahier = 1500;
 const quantitedecahier = 4;
 const prixdunstylo = 500;
 const quantitedestylo = 3;
+
+
+const montantdescahiers = prixduncahier * quantitedecahier;
+const montantdesstylos = prixdunstylo * quantitedestylo;
